@@ -1,0 +1,53 @@
+@font-face {
+    font-family: SuperMario256 ;
+    src: url('./assets/super_mario_256/SuperMario256.ttf') format('truetype'); 
+}
+
+
+header {
+    background-color: #333333;
+    width :100%;
+    margin: 0;
+    border:auto;
+    padding: 0.5%;
+    
+}
+h1{
+    font-family: SuperMario256;
+    color: #ffdc5e;
+
+
+}
+
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #ffdc5e;
+    text-decoration: none;
+}
+
+footer{
+    background-color: #333333;
+    color: #ffdc5e;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    border:auto;
+    padding: 0.5%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+  
+
+}
+pre{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffdc5e;
+
+
+} 
+
+
+

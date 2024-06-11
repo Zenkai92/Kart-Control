@@ -1,0 +1,55 @@
+{
+    "personnages": [
+      {
+        "nom": "Mario",
+        "poids": 6,
+        "vitesse": 7,
+        "acceleration": 2,
+        "maniabilite": 4,
+        "adherence": 3
+      },
+      {
+        "nom": "Luigi",
+        "poids": 6,
+        "vitesse": 7,
+        "acceleration": 2,
+        "maniabilite": 5,
+        "adherence": 2
+      },
+      {
+        "nom": "Toad",
+        "poids": 3,
+        "vitesse": 4,
+        "acceleration": 4,
+        "maniabilite": 7,
+        "adherence": 4
+      },
+      {
+        "nom": "Maskass",
+        "poids": 1,
+        "vitesse": 5,
+        "acceleration": 3,
+        "maniabilite": 7,
+        "adherence": 3
+      },
+      {
+        "nom": "Bowser",
+        "poids": 10,
+        "vitesse": 10,
+        "acceleration": 0,
+        "maniabilite": 0,
+        "adherence": 3
+      },
+      
+      {
+        "nom": "Metal Mario",
+        "poids": 10,
+        "vitesse": 8,
+        "acceleration": 1,
+        "maniabilite": 3,
+        "adherence": 4
+      }
+      
+      
+    ]
+  }

@@ -1,0 +1,154 @@
+@font-face {
+    font-family: SuperMario256 ;
+    src: url('./assets/super_mario_256/SuperMario256.ttf') format('truetype'); 
+}
+
+    header {
+        background-color: #333333;
+        width :100%;
+        margin: 0;
+        border:auto;
+        padding: 0.5%;
+        
+    }
+h1{
+    font-family: SuperMario256;
+    color: #ffdc5e;
+
+
+}
+
+
+
+pre{
+    padding: 0.5%;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin-top: 1%;
+    margin-bottom: 0;
+
+
+}
+
+body{
+    background-color: #ffdc5e;
+    margin: 0;  
+    
+}
+
+.welcome {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.welcome > div {
+    width: 40%;
+}
+
+.welcome > div > pre {
+    font-family: arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #333333;
+    padding: 0.5%;
+    margin-top: 1%;
+    margin-bottom: 0;
+}   
+.analyse > div > pre {
+    font-family: arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #333333;
+    padding: 0.5%;
+    margin-top: 1%;
+    margin-bottom: 0;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+
+h2{
+    padding : 0.5%;
+    font-family: SuperMario256;
+    color: #333333;
+
+
+}   
+
+
+h3{
+    padding : 0.5%;
+    font-family: SuperMario256;
+    color: #333333;
+    margin-top: 0.5%;
+    margin-bottom: 0%;
+}
+
+a{
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold ;
+    color: #ffdc5e;
+}
+
+pre{
+    padding: 0.5%;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin-top: 1%;
+    margin-bottom: 0;
+
+
+}
+
+
+
+
+.navbar-brand{
+    font-family: SuperMario256;
+    color: #ffdc5e;
+    padding: 0.5%;
+}
+
+
+img{
+    width: 40%;
+    height: 40%;
+    padding: 0.5%;
+    border-radius : 10%;
+}
+
+
+footer{
+    background-color: #333333;
+    color: #ffdc5e;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    border:auto;
+    padding: 0.5%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+   
+
+  
+
+}
+.login-message{
+    font-family: Arial, sans-serif;
+
+    color: #ffdc5e;
+    padding: 0.5%;
+    margin-top: 1%;
+    margin-bottom: 0;
+}   
+
+
+
+
